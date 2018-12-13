@@ -1,28 +1,28 @@
 {
-    "editor.insertSpaces": false,
-    "editor.tabSize": 4,
-    "editor.rulers": [140],
+	"editor.insertSpaces": false,
+	"editor.tabSize": 4,
+	"editor.rulers": [140],
 	"files.trimTrailingWhitespace": true,
-    "files.insertFinalNewline": true,
-    "files.trimFinalNewlines": true,
-    "files.exclude": {
-        "**/.git": true,
-        "**/.svn": true,
-        "**/.hg": true,
-        "**/CVS": true,
-        "**/.DS_Store": true,
-        "**/vendor/**": true,
-        "**/node_modules/**": true
-    },
-    "[yaml]": {
-        "editor.tabSize": 2,
-        "editor.insertSpaces": true
-    },
-    "files.associations": {
-        "*.tmpl": "html",
-        "config": "yaml"
-    },
-    "emmet.triggerExpansionOnTab": true,
-    "eslint.packageManager": "yarn",
-    "html.format.endWithNewline": true
+	"files.insertFinalNewline": true,
+	"files.trimFinalNewlines": true,
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/vendor/**": true,
+		"**/node_modules/**": true
+	},
+	"[yaml]": {
+		"editor.tabSize": 2,
+		"editor.insertSpaces": true
+	},
+	"files.associations": {
+		"*.tmpl": "html",
+		"config": "yaml"
+	},
+	"emmet.triggerExpansionOnTab": true,
+	"eslint.packageManager": "yarn",
+	"html.format.endWithNewline": true
 }
