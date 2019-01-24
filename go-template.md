@@ -16,3 +16,14 @@
 		</div>
 	</div>
 	```
+
+1. Multi-line attributes
+
+	```html
+	<input
+		type="number"
+		class="class-1 class-2 class-3"
+	{{if .Disable}}
+		disabled
+	{{end}}>
+	```
